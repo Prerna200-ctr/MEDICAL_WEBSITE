@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  git clone 
 ```
 
 Go to the project directory
@@ -111,9 +111,5 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
 
-## Team Members / Contributors
 
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Rajendra Patel](https://github.com/centauricoder01)
-- [@Akash7080](https://github.com/Akash7080)
 
