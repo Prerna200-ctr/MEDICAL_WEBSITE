@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Prerna200-ctr/MEDICAL_WEBSITE.git
 ```
 
 Go to the project directory
